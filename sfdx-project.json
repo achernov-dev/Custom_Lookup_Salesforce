@@ -7,6 +7,6 @@
   ],
   "name": "CustomLookup",
   "namespace": "",
-  "sfdcLoginUrl": "https://brave-fox-mt0ake-dev-ed.trailblaze.my.salesforce.com/",
+  "sfdcLoginUrl": "https://login.salesforce.com/",
   "sourceApiVersion": "59.0"
 }
