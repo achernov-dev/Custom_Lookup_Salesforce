@@ -1,0 +1,12 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true
+    }
+  ],
+  "name": "CustomLookup",
+  "namespace": "",
+  "sfdcLoginUrl": "https://brave-fox-mt0ake-dev-ed.trailblaze.my.salesforce.com/",
+  "sourceApiVersion": "59.0"
+}

@@ -1,0 +1,23 @@
+.clickable-item{
+    text-decoration: none;
+    color: inherit;
+}
+.disabled-link{
+    cursor: default;
+    pointer-events: none;        
+    text-decoration: none;
+    color: inherit;
+}
+.list_spinner{
+    display: inherit;
+}
+.error_text{
+    color:rgb(234, 0, 30);
+}
+.disabled-link a {
+    color: black;
+}
+
+.checkbox_input{
+    padding: 0.5em;
+}
